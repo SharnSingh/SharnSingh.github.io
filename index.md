@@ -29,13 +29,10 @@
 
 ---
 
-### Category Name 2
+## Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Statistical Analytics Scripts](https://github.com/SharnSingh/analytical-scripts)
+- [League of Legends Predictive Analysis](https://github.com/SharnSingh/LeagueOfLegends_Diamond_PredictiveAnalysis)
 
 ---
 
