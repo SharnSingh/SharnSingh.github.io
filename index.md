@@ -4,8 +4,11 @@
 
 ### Work Experience 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Cotiviti  - Data Scientist
+* Developed machine learning models focused on risk analysis, health provider efficiency and cost reduction in B2B application
+* Managed and optimized models to achieve up to 10% better prediction performance compared to previous releases
+* Coordinated with different teams to implement models and monitor outcomes
+* Collaborated with product managers to reframe business and product needs as machine learning projects that could deliver actionable insights
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
